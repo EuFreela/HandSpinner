@@ -19,7 +19,7 @@ func _process(delta):
 		if block:
 			emit_signal("zero")
 		print("vel = 0")
-	get_node("Corpo/Sprite").set_rot(get_node("Corpo/Sprite").get_rot() + delta*vel)
+	get_node("Corpo").set_rot(get_node("Corpo").get_rot() + delta*vel)
 	emit_signal("speed", vel/50)
 
 func _on_Contato_input_event( viewport, event, shape_idx ):
