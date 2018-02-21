@@ -15,6 +15,12 @@ As próximas versões deste game serão as modificações necessárias até cheg
 </ol>
 <br>
 <p>Esta versão sofrerá modificações. Este é um modelo de testes para apresentação.</p>
+<p>Mudanças necesssárias:</p>
+<ol>
+  <ul>
+    <li>1. Design das imagens correspondentes</li>
+  </ul>  
+</ol>
 
 
 <br><br>
